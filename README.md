@@ -1,5 +1,9 @@
 # Travelopia Project
 
+### [Deployed Link](https://travelopia-frontend.netlify.app/)
+
+### [GitHub Repo Link](https://github.com/artisonii/travelopia-frontend/)
+
 ## Features
 
 - Fluid Responsive
