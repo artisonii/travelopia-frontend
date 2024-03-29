@@ -2,7 +2,7 @@
 
 Travelopia is a single-page web application redefining your travel exploration experience. Meticulously crafted with HTML, CSS, and JavaScript, Travelopia offers a sleek and dynamic platform for discovering a world of travel options. Complete with a 100px navbar, 100px footer, captivating imagery with overlay text, and a click-triggered alert button, Travelopia ensures a seamless user experience. With a focus on responsiveness and usability, Travelopia empowers users to embark on their travel adventures with ease. Get ready to explore the world like never before with Travelopia.
 
-### [Deployed Link](https://travelopia-project.netlify.app/)
+### [Deployed Link](https://travelopia-travel.netlify.app/)
 
 ### [GitHub Repo Link](https://github.com/artisonii/travelopia-frontend/)
 
